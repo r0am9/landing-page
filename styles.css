@@ -120,3 +120,30 @@ a, .button, .hero-secondary-text{
     color: #1F2937;
     font-weight: 900;
 }
+
+.body2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding-top: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 100px;
+    gap:10px;
+}
+
+
+.text-body2{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.author-body2{
+    align-self: self-end;
+    font-size: 26px;
+    color: #1F2937;
+    font-weight: 900;
+}
